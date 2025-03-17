@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on `reactjs`
 - 🤔 I’m looking for help with `ai`,`ml`
 - 💬 Ask me about `reactjs`,`nextjs`,`typescript`
-- 📫 How to reach me: `pradip.vadher@quantumcodexai.com`
+- 📫 How to reach me: `vadherpradip34@gmail.com`
 - ⚡ Fun fact: `Let's have meet`
